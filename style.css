@@ -11,9 +11,8 @@ justify-content: center;
 }
 nav{
     border-right: 2px solid rgb(72, 106, 134);
-    padding: 10px;
-    font-style: oblique;
-    font-family: Lucida Console;
+    padding: 8px;
+    font-family: 'Fredoka One', cursive;
 }
 main{
     display: flex;
@@ -33,21 +32,21 @@ main{
     margin-left: 10px;
     padding-right: 15px;
     border-right: 3px solid rgb(72, 106, 134);
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .s2 {
     width: 25%;
     position: relative;
     margin-left: 10px;
     padding-right: 15px;
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 }
-.h2{
+.h22{
     position: absolute;
     top: 250px;
     width: 100%;
     font-size: 15px;
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 
 }
 .s3 {
@@ -59,15 +58,14 @@ main{
     margin-left: 10px;
     padding-right: 15px;
     border-right: 3px solid rgb(72, 106, 134);
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .h23{
     position: absolute;
     top: 250px;
     width: 100%;
-    font-size: 15px;
     left: 5px;
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .s4 {
     display: flex;
@@ -76,12 +74,13 @@ main{
     position: relative;
     margin-left: 10px;
     padding-right: 15px;
-    font-family: URW Chancery L, cursive;
+    font-family: 'Indie Flower', cursive;
 
 }
 .am2{
     display: flex;
     align-content: left;
+    font-family: 'Indie Flower', cursive;
 }
 footer{
     display: flex;
@@ -91,6 +90,7 @@ footer{
 }
 address{
     border-right: 2px solid grey;
-    margin-top: 5px;
+    margin-top: 3px;
     padding: 5px 5px 5px 5px;
+    font-family: 'Fredoka One', cursive;
 }
